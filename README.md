@@ -1,5 +1,5 @@
-### Hi there 👋
-## I am Manoj
+#### Hi there 👋
+## I am Ashiq Dey
 
 * 🤔 I'm curious to learn new stuffs
 * 🌱 My tech. stack includes Node.js, React.js, PHP, Angualr.js, Mysql, mongoDB, AWS, MQTT etc
@@ -9,7 +9,7 @@
 <br />
 
 
-<img align="right" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=buefy" />
+<img align="right" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
 
 
 ### Connect with me 📡
