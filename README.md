@@ -2,7 +2,8 @@
 ## I am Ashiq Dey
 
 * 🤔 I'm curious to learn new stuffs
-* 🌱 My tech. stack includes Node.js, React.js, PHP, Angualr.js, Mysql, mongoDB, AWS, MQTT etc
+* ⚡ My tech. stack includes Node.js, React.js, PHP, Angualr.js, Mysql, mongoDB, AWS, MQTT etc
+* 🌱 Apart from tech. I am trying to connect myself with nature
 * 👯 Looking to connect with people from tech.
 * 📫 [Click this link ](https://xbytelab.com/ashiqdey/) to land into my portfolio
 <br />
@@ -14,25 +15,18 @@
 
 ### Connect with me 📡
 
-[<img align="left" alt="Twitter" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Facebook" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LinkedIn" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Twitter" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/whatsapp_Si38cIePcT.svg" />][whatsapp]
+[<img align="left" alt="LinkedIn" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/linkedin_SbWQPgUihLj.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/instagram_Nvb1bmrzciC.svg" />][instagram]
+[<img align="left" alt="Facebook" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/facebook_XneyJllOX.svg" />][facebook]
 
 
-<br><br>
-
-<br>
-<br>
-
-
-[twitter]: https://twitter.com/manojkumar9801
-[instagram]: https://www.instagram.com/just.manojxk/
-[linkedin]: https://www.linkedin.com/in/manojkumarsaran/
-[email]: mailto:manojkumarsaran79@gmail.com
-[facebook]:https://www.facebook.com/manojkumarsaranofficial
-
+[twitter]: https://twitter.com/ashiqdey
+[instagram]: https://www.instagram.com/ashiqdey
+[linkedin]: https://www.linkedin.com/in/ashiqdey
+[email]: mailto:ashiqdey@xbytelab.com
+[facebook]:https://www.facebook.com/its.ashiqdey
+[whatsapp]:https://api.whatsapp.com/send?phone=917002859965&text=Hi
 
 <!--
 **ashiqdey/ashiqdey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
