@@ -1,10 +1,13 @@
 #### Hi there 👋
 ## I am Ashiq Dey
 
-* 🤔 I'm curious to learn new stuffs
-* ⚡ My tech. stack includes Node.js, React.js, PHP, Angualr.js, Mysql, mongoDB, AWS, MQTT etc
-* 🌱 Apart from tech. I am trying to connect myself with nature
-* 👯 Looking to connect with people from tech.
+* 🤔 Full Stack developer outside, Nature lover inside
+* ⚡ My tech.stack.includes() Node.js, React.js, Next.js, Sass, TypeScript, PHP, Mysql, AWS, MQTT, Socket.io etc
+* 💻 Also worked with Angular 10+, Vue.js, Python, MongoDB, CouchDB
+* 📙 Learning Golang now
+* 💬 Stuck somewhere, I will try to help you solve
+* 🌱 Apart from tech. I am trying to spend more time with nature as its the source of ultimate peace
+* 👯 Looking to connect with people from tech. or one who believes in making the world a better place.
 * 📫 [Click this link ](https://xbytelab.com/ashiqdey/) to land into my portfolio
 <br />
 <br />
