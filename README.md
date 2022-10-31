@@ -19,9 +19,6 @@
 
 <img alt="Ashiq's Github Stats" width="350px" align="right" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
 
-<br />
-<br />
-
 
 🔗 &nbsp; **Connect with me**
 <!-- CONTACT-START -->
