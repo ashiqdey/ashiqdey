@@ -1,6 +1,9 @@
 #### Hi there 👋
 ## I am Ashiq Dey
 
+<img alt="Ashiq's top language" width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact" /> 
+<img alt="Ashiq's Github Stats" width="350px" align="right" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
+
 * 🤔 Full Stack developer outside, Nature lover inside
 * ⚡ My tech.stack.includes() Node.js, React.js, Next.js, Sass, TypeScript, PHP, Mysql, AWS, MQTT, Socket.io etc
 * 💻 Also worked with Angular 10+, Vue.js, Python, MongoDB, CouchDB
@@ -16,8 +19,7 @@
 
 
 
-<img alt="Ashiq's top language" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact" /> 
-<img width="300px" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
+
 
 <br />
 <br />
