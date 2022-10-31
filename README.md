@@ -12,14 +12,10 @@
 <br />
 <br />
 
-<div style="display:flex">
-  <div style="width:50%"></div>
-  <div style="width:50%">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact)](https://github.com/ashiqdey)
 
-    <img align="right" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
-  </div>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact)](https://github.com/ashiqdey)
+
+<img align="right" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
 
 
 <br />
