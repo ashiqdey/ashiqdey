@@ -13,9 +13,13 @@
 <br />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact)](https://github.com/ashiqdey)
+
+
 <img align="right" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
 
-
+<br />
+<br />
 ### Connect with me 🔗
 
 [<img align="left" alt="Twitter" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/whatsapp_Si38cIePcT.svg" />][whatsapp]
@@ -31,15 +35,15 @@
 [facebook]:https://www.facebook.com/its.ashiqdey
 [whatsapp]:https://api.whatsapp.com/send?phone=917002859965&text=Hi
 
+<br />
+<br />
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Setting up AWS MQTT in 10 minutes](https://xbytelab.com/blog/Setting-up-AWS-MQTT-in-10-minutes/1293055)
 - [Getting started with MQTT (For client side)](https://xbytelab.com/blog/Getting-started-with-MQTT-For-client-side/1293047)
 - [Socket for beginners (Node.js)](https://xbytelab.com/blog/Socket-for-beginners-Node.js/1293048)
-- [Implement caching in js fetch API]([https://xbytelab.com/blog/Implement-caching-in-js-fetch-API/1293046])
+- [Implement caching in js fetch API](https://xbytelab.com/blog/Implement-caching-in-js-fetch-API/1293046)
 <!-- BLOG-POST-LIST:END -->
 
-📊 &nbsp;**This week I spent my time on**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact)](https://github.com/ashiqdey/github-readme-stats)
 
