@@ -16,15 +16,14 @@
 
 
 
-
-| Language | Stats |
-| <img alt="Ashiq's top language" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact" /> | <img width="300px" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" /> |
+<img alt="Ashiq's top language" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact" /> 
+<img width="300px" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
 
 <br />
 <br />
 
 
-🔗 &nbsp;**Connect with me **
+🔗 &nbsp; **Connect with me**
 <!-- CONTACT-START -->
 [<img align="left" alt="Twitter" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/whatsapp_Si38cIePcT.svg" />][whatsapp]
 [<img align="left" alt="LinkedIn" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/linkedin_SbWQPgUihLj.svg" />][linkedin]
