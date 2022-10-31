@@ -13,7 +13,8 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact)](https://github.com/ashiqdey)
+
+<img align="right" alt="Ashiq's top language" src="[https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact)" />
 
 <img align="right" alt="Ashiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiqdey&show_icons=true&&hide=issues,contribscount_private=true&theme=algolia" />
 
