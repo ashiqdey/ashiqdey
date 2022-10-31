@@ -5,7 +5,7 @@
 * ⚡ My tech.stack.includes() Node.js, React.js, Next.js, Sass, TypeScript, PHP, Mysql, AWS, MQTT, Socket.io etc
 * 💻 Also worked with Angular 10+, Vue.js, Python, MongoDB, CouchDB
 * 📙 Learning Golang now
-* 💬 Stuck somewhere, I will try to help you solve
+* 💬 Stuck somewhere? I will try to help you the best I can.
 * 🌱 Apart from tech. I am trying to spend more time with nature as its the source of ultimate peace
 * 👯 Looking to connect with people from tech. or one who believes in making the world a better place.
 * 📫 [Click this link ](https://xbytelab.com/ashiqdey/) to land into my portfolio
@@ -31,17 +31,16 @@
 [facebook]:https://www.facebook.com/its.ashiqdey
 [whatsapp]:https://api.whatsapp.com/send?phone=917002859965&text=Hi
 
-<!--
-**ashiqdey/ashiqdey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Setting up AWS MQTT in 10 minutes](https://xbytelab.com/blog/Setting-up-AWS-MQTT-in-10-minutes/1293055)
+- [Getting started with MQTT (For client side)](https://xbytelab.com/blog/Getting-started-with-MQTT-For-client-side/1293047)
+- [Socket for beginners (Node.js)](https://xbytelab.com/blog/Socket-for-beginners-Node.js/1293048)
+- [Implement caching in js fetch API]([https://xbytelab.com/blog/Implement-caching-in-js-fetch-API/1293046])
+<!-- BLOG-POST-LIST:END -->
 
-Here are some ideas to get you started:
+📊 &nbsp;**This week I spent my time on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ashiqdey&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+
