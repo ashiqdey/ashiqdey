@@ -22,10 +22,10 @@
 
 🔗 &nbsp; **Connect with me**
 <!-- CONTACT-START -->
-[<img align="left" alt="Twitter" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/whatsapp_Si38cIePcT.svg" />][whatsapp]
-[<img align="left" alt="LinkedIn" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/linkedin_SbWQPgUihLj.svg" />][linkedin]
+[<img align="left" alt="WhatsApp" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/whatsapp_Si38cIePcT.svg" />][whatsapp]
+<!-- [<img align="left" alt="LinkedIn" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/linkedin_SbWQPgUihLj.svg" />][linkedin]-->
 [<img align="left" alt="Instagram" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/instagram_Nvb1bmrzciC.svg" />][instagram]
-[<img align="left" alt="Facebook" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/facebook_XneyJllOX.svg" />][facebook]
+<!-- [<img align="left" alt="Facebook" width="19px" src="https://ik.imagekit.io/wsnra7hwmyq/social/facebook_XneyJllOX.svg" />][facebook]-->
 
 
 [twitter]: https://twitter.com/ashiqdey
