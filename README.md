@@ -3,7 +3,7 @@
 
 <img alt="Ashiq's top language" width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact&theme=algolia" /> 
 
-* 🤔 Full Stack developer outside, Nature lover inside
+* 🤔 Full Stack developer outside, Nature lover inside.
 * ⚡ My tech.stack.includes() Node.js, React.js, Next.js, Sass, TypeScript, PHP, Mysql, AWS, MQTT, Socket.io etc
 * 💻 Also worked with Angular 10+, Vue.js, Python, MongoDB, CouchDB
 * 📙 Learning Golang now
