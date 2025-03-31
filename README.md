@@ -50,3 +50,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+<!-- CONTRIBUTIONS SECTION -->
+<div align="center">
+  <h2 style="color: #333333;">🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/santanu4246/santanu4246/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
