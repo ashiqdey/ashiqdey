@@ -1,5 +1,6 @@
-#### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-## I am Ashiq Dey
+  <h1 align="center" style="font-family: 'Fira Code', monospace;">
+    <img src="https://xbytelab.com/cdn/images/github-title.svg" alt="Typing SVG"/>
+  </h1>
 
 <img alt="Ashiq's top language" width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqdey&layout=compact&theme=algolia" /> 
 
